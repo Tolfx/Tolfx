@@ -1,8 +1,10 @@
 ### Tolfx's readME | Info
 
-## I'm a student at age 17.
+## I'm a student.
 - Studying at NTI in Sweden.
 - I’m currently learning C++ | JavaScript | TypeScript | Java | Node.JS
+- Age 17
+- *03/02/07*
 
 ### Contacts & Social media:
 
@@ -36,7 +38,7 @@
 
 ---
 
-<img align="left" alt="Tolfx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolfx&show_icons=true&hide_border=true&theme=synthwave" />
+<img align="left" alt="Tolfx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolfx&show_icons=true&hide_border=true&theme=synthwave" />
 
 [twitter]: https://twitter.com/tolfx
 [youtube]: https://www.youtube.com/channel/UCNo-Mixo0aAmmQ9FU5FUFxg
