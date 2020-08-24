@@ -2,7 +2,7 @@
 
 ## I'm a student.
 - Studying at NTI in Sweden.
-- I’m currently learning C++ | JavaScript | TypeScript | Java | Node.JS
+- I’m currently learning C++ | JavaScript | TypeScript | Node.JS
 - Age 17
 - *03/02/07*
 
