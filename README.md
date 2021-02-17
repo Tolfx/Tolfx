@@ -4,7 +4,7 @@
 - Studying at NTI in Sweden.
 - I’m currently learning C++
 - I know: JavaScript | TypeScript | Node.js
-- Age 17
+- Age 18
 - *03/02/07*
 
 ### Contacts & Social media:
