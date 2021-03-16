@@ -2,6 +2,7 @@
 
 ## I'm a student.
 - Studying at NTI in Sweden.
+- Studying to becoming a DevOps engineer
 - I’m currently learning C++
 - I know: JavaScript | TypeScript | Node.js
 - Age 18
