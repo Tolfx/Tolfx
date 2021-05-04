@@ -1,12 +1,10 @@
-### Tolfx's readME | Info
+### Tolfx's info
 
 ## I'm a student.
-- Studying at NTI in Sweden.
-- Studying to becoming a DevOps engineer
+- Studying to become a DevOps engineer
 - I’m currently learning Python
 - I know: JavaScript & TypeScript & Node.js & C++
 - Age 18
-- *03/02/07*
 
 ### Contacts & Social media:
 
