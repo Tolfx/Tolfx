@@ -40,8 +40,11 @@
 
 ---
 
-<img align="left" alt="Tolfx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolfx&show_icons=true&hide_border=true&theme=synthwave" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolfx&layout=compact" />
+<p float="left">
+  <img align="left" alt="Tolfx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolfx&show_icons=true&hide_border=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolfx&layout=compact" />
+</p>
+
 
 [twitter]: https://twitter.com/tolfx
 [youtube]: https://www.youtube.com/channel/UCNo-Mixo0aAmmQ9FU5FUFxg
