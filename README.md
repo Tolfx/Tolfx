@@ -41,8 +41,8 @@
 ---
 
 <p float="left">
-  <img align="left" alt="Tolfx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolfx&show_icons=true&hide_border=true&theme=synthwave" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolfx&layout=compact" />
+  <img width="350" alt="Tolfx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolfx&show_icons=true&hide_border=true&theme=synthwave" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolfx&layout=compact" />
 </p>
 
 
