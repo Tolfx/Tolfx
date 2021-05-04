@@ -41,7 +41,7 @@
 ---
 
 <img align="left" alt="Tolfx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolfx&show_icons=true&hide_border=true&theme=synthwave" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tolfx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolfx&layout=compact" />
 
 [twitter]: https://twitter.com/tolfx
 [youtube]: https://www.youtube.com/channel/UCNo-Mixo0aAmmQ9FU5FUFxg
