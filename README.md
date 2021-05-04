@@ -3,8 +3,8 @@
 ## I'm a student.
 - Studying at NTI in Sweden.
 - Studying to becoming a DevOps engineer
-- I’m currently learning C++
-- I know: JavaScript | TypeScript | Node.js
+- I’m currently learning Python
+- I know: JavaScript & TypeScript & Node.js & C++
 - Age 18
 - *03/02/07*
 
