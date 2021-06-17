@@ -1,4 +1,5 @@
 ### Tolfx's info
+![](https://komarev.com/ghpvc/?username=Tolfx&color=blueviolet&style=plastic&)
 
 ## I'm a student.
 - Studying to become a DevOps engineer
