@@ -1,4 +1,4 @@
-[<img align="left" alt="Logo" width="58px" src="https://cdn.tolfix.com/images/TX-Small.png" />]
+[<img align="left" alt="Logo" width="58px" src="https://cdn.tolfix.com/images/TX-Small.png" />][tolfix]
 ---
 ### Tolfx's info
 ![](https://komarev.com/ghpvc/?username=Tolfx&color=blueviolet&style=plastic&)
@@ -52,6 +52,7 @@
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
+[tolfix]: https://tolfix.com/
 [twitter]: https://twitter.com/tolfx
 [youtube]: https://www.youtube.com/channel/UCNo-Mixo0aAmmQ9FU5FUFxg
 [instagram]: https://instagram.com/tolfx
