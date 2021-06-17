@@ -43,6 +43,11 @@
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolfx&layout=compact&theme=synthwave" />
 </p>
 
+---
+
+## My badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 [twitter]: https://twitter.com/tolfx
 [youtube]: https://www.youtube.com/channel/UCNo-Mixo0aAmmQ9FU5FUFxg
