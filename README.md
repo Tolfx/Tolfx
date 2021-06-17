@@ -1,5 +1,5 @@
+<img align="left" alt="Logo" width="58px" src="https://cdn.tolfix.com/images/TX-Small.png" />
 ### Tolfx's info
-<img align="left" alt="Logo" width="38px" src="https://cdn.tolfix.com/images/TX-Small.png" />
 ![](https://komarev.com/ghpvc/?username=Tolfx&color=blueviolet&style=plastic&)
 
 ## I'm a student.
