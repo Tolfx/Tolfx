@@ -3,9 +3,9 @@
 
 ## I'm a student.
 - Studying to become a DevOps engineer
-- I’m currently learning Python
-- I know: JavaScript & TypeScript & Node.js & C++
-- Age 18
+- I’m currently learning **Python**
+- I know ``JavaScript & TypeScript & Node.js & C++``
+- Age ``18``
 
 ### Contacts & Social media:
 
