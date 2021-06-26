@@ -3,9 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=Tolfx&color=blueviolet&style=plastic&label=Views+In+Total+/+Tolfx)
 
 ## I'm a student.
-- Studying to become a DevOps engineer
+- Studying to become a DevOps Engineer
 - I’m currently learning **Python**
 - I know ``JavaScript & TypeScript & Node.js & C++``
+- [Discord](https://discord.com/users/269870630738853888): `Tolfx#0184`
 - Age ``18``
 
 ### Contacts & Social media:
