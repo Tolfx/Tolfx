@@ -4,7 +4,7 @@
 
 ## I'm a student.
 - Studying to become a DevOps Engineer
-- I’m currently learning **Python**
+- I’m currently learning **Python** & **C#**
 - I know ``JavaScript & TypeScript & Node.js & C++``
 - [Discord](https://discord.com/users/269870630738853888): `Tolfx#0184`
 - Age ``18``
@@ -42,7 +42,7 @@
 <p float="left">
   <img width="420" alt="Tolfx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolfx&show_icons=true&hide_border=true&theme=synthwave" />
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolfx&layout=compact&theme=synthwave" />
-  <img width="420" src="https://mydiscord.tolfix.com/?userId=269870630738853888" />
+  <img width="420" src="https://mydiscord.tolfix.com/?userId=269870630738853888?" />
 </p>
 
 ---
