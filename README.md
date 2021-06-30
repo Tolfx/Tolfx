@@ -10,13 +10,11 @@
 - Age ``18``
 
 ### Contacts & Social media:
-
 [<img align="left" alt="codeSTACKr | YouTube" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Steam" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 [<img align="left" alt="codeSTACKr | Discord" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
 <br />
 
 ### Languages and Tools:
@@ -42,6 +40,7 @@
 ---
 
 <p float="left">
+  <img align="left" width="420" src="https://mydiscord.tolfix.com/?userId=269870630738853888" />
   <img width="420" alt="Tolfx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolfx&show_icons=true&hide_border=true&theme=synthwave" />
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolfx&layout=compact&theme=synthwave" />
 </p>
@@ -52,6 +51,7 @@
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
+[tolfx]: https://discord.com/users/269870630738853888
 [tolfix]: https://tolfix.com/
 [twitter]: https://twitter.com/tolfx
 [youtube]: https://www.youtube.com/channel/UCNo-Mixo0aAmmQ9FU5FUFxg
