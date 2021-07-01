@@ -42,7 +42,7 @@
 <p float="left">
   <img width="420" alt="Tolfx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolfx&show_icons=true&hide_border=true&theme=synthwave" />
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolfx&layout=compact&theme=synthwave" />
-  <img width="420" src="https://mydiscord.tolfix.com/?userId=269870630738853888&bg=https://cdn.tolfix.com/images/mountmywaves3.gif" />
+  <img width="420" src="https://mydiscord.tolfix.com/?userId=269870630738853888&banner=https://cdn.tolfix.com/images/mountmywaves3.gif" />
 </p>
 
 ---
