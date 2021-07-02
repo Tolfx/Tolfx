@@ -47,6 +47,13 @@
 
 ---
 
+# Affiliates
+* [My Discord](https://github.com/Tolfx/MyDiscord) : Creates custom banner/profile to use on a readme status.
+* [DMCD](https://github.com/Tolfix/dmcd) : Helps with auto deployment for docker. (CD)
+* [TLX](https//tlx.tf/) : A shorten url service.
+* [Cloud TLX](https://cloud.tlx.tf/) : A cloud service provider. 
+---
+
 ## My badges
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
