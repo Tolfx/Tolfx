@@ -42,13 +42,14 @@
 <p float="left">
   <img width="420" alt="Tolfx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolfx&show_icons=true&hide_border=true&theme=synthwave" />
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolfx&layout=compact&theme=synthwave" />
-  <img width="420" src="https://mydiscord.tolfix.com/png?userId=269870630738853888&banner=true" />
+  <a href="https://github.com/Tolfx/MyDiscord"><img width="420" src="https://mydiscord.tolfix.com/png?userId=269870630738853888&banner=true" /></a>
 </p>
 
 ---
 
 # Affiliates
 * [My Discord](https://github.com/Tolfx/MyDiscord) : Creates custom banner/profile to use on a readme status.
+* [Discord-Banner](https://github.com/Tolfx/discord-banner) : Gives the user's banner from discord.
 * [DMCD](https://github.com/Tolfix/dmcd) : Helps with auto deployment for docker. (CD)
 * [TLX](https://tlx.tf/) : A shorten url service.
 * [Cloud TLX](https://cloud.tlx.tf/) : A cloud service provider. 
