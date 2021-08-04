@@ -1,6 +1,8 @@
 [<img align="left" alt="Logo" width="58px" src="https://cdn.tolfix.com/images/TX-Small.png" />][tolfix]
 ### Tolfx's info
 ![](https://komarev.com/ghpvc/?username=Tolfx&color=blueviolet&style=plastic&label=Views+In+Total+/+Tolfx)
+<br />
+[:heart: Sponsor me](https://github.com/sponsors/Tolfx)
 
 ## I'm a student.
 - Studying to become a DevOps Engineer
