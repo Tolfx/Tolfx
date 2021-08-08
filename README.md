@@ -30,12 +30,14 @@
 ![Github Action](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Deno](https://img.shields.io/badge/-Deno-05122A?style=for-the-badge&logo=deno)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&)
-![Node.js](https://img.shields.io/badge/-Node.js-226b24?style=for-the-badge&logo=node.js)\
+![Node.js](https://img.shields.io/badge/-Node.js-226b24?style=for-the-badge&logo=node.js)
+![Photoshop](https://img.shields.io/badge/-Photoshop-2FA3F7?style=for-the-badge&logo=photoshop)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3a2854?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![React](https://img.shields.io/badge/-React-3d6f80?style=for-the-badge&logo=react)
 ![EJS](https://img.shields.io/badge/-EJS-B1BF6E?style=for-the-badge&logo=ejs)
 ![HTML](https://img.shields.io/badge/-HTML-ba401e?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-0e578c?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
+![CSS](https://img.shields.io/badge/-CSS-0e578c?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-94486e?style=for-the-badge&logo=sass)\
 ![Git](https://img.shields.io/badge/-Git-c44027?style=for-the-badge&logo=git)
 ![NotePad++](https://img.shields.io/badge/-Notepad++-A4EB7A?style=for-the-badge&logo=notepad++)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
