@@ -12,11 +12,11 @@
 - Age ``18``
 
 ### Contacts & Social media:
-[<img align="left" alt="codeSTACKr | YouTube" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Steam" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-[<img align="left" alt="codeSTACKr | Discord" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1CA0F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-F84F4A.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-144475.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
+[<img align="left" alt="Discord" src="https://img.shields.io/badge/Disocrd-5560E9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 <br />
 
 ### Languages and Tools:
@@ -24,35 +24,25 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1f4d80?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-0c3766?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-79ABFF?style=for-the-badge&logo=cpp)
+![C#](https://img.shields.io/badge/-CSharp-058E0C?style=for-the-badge&logo=cshapr)
 ![Java](https://img.shields.io/badge/-Java-DF6600?style=for-the-badge&logo=java)\
+![Docker](https://img.shields.io/badge/-Docker-46A2F1?style=for-the-badge&logo=docker&logoColor=white)
+![Github Action](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Deno](https://img.shields.io/badge/-Deno-05122A?style=for-the-badge&logo=deno)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&)
 ![Node.js](https://img.shields.io/badge/-Node.js-226b24?style=for-the-badge&logo=node.js)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3a2854?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![React](https://img.shields.io/badge/-React-3d6f80?style=for-the-badge&logo=react)
+![EJS](https://img.shields.io/badge/-EJS-B1BF6E?style=for-the-badge&logo=ejs)
 ![HTML](https://img.shields.io/badge/-HTML-ba401e?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-0e578c?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
 ![Git](https://img.shields.io/badge/-Git-c44027?style=for-the-badge&logo=git)
+![NotePad++](https://img.shields.io/badge/-Notepad++-A4EB7A?style=for-the-badge&logo=notepad++)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0060a1?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-39853a?style=for-the-badge&logo=mongodb)
 ![PostgresSQL](https://img.shields.io/badge/-Postgres-31648C?style=for-the-badge&logo=postgressql)
 ![MySQL](https://img.shields.io/badge/-MySQL-DB7D00?style=for-the-badge&logo=mysql)
-<!--
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="36px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="TypeScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
--->
 
 ---
 
@@ -77,4 +67,4 @@
 [youtube]: https://www.youtube.com/channel/UCNo-Mixo0aAmmQ9FU5FUFxg
 [instagram]: https://instagram.com/tolfx
 [steam]: https://steamcommunity.com/id/Tolfx/
-[discord]: https://discord.gg/dm7G2tB
+[discord]: https://discord.tolfix.com/
