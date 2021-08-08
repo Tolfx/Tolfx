@@ -20,7 +20,24 @@
 <br />
 
 ### Languages and Tools:
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-C67831?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1f4d80?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-0c3766?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-79ABFF?style=for-the-badge&logo=cpp)
+![Java](https://img.shields.io/badge/-Java-DF6600?style=for-the-badge&logo=java)\
+![Deno](https://img.shields.io/badge/-Deno-05122A?style=for-the-badge&logo=deno)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&)
+![Node.js](https://img.shields.io/badge/-Node.js-226b24?style=for-the-badge&logo=node.js)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-3a2854?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-ba401e?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-0e578c?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
+![Git](https://img.shields.io/badge/-Git-c44027?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0060a1?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)\
+![MongoDB](https://img.shields.io/badge/-MongoDB-39853a?style=for-the-badge&logo=mongodb)
+![PostgresSQL](https://img.shields.io/badge/-Postgres-31648C?style=for-the-badge&logo=postgressql)
+![MySQL](https://img.shields.io/badge/-MySQL-DB7D00?style=for-the-badge&logo=mysql)
+<!--
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -35,9 +52,7 @@
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="TypeScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-<br />
-<br />
+-->
 
 ---
 
