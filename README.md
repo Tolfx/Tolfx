@@ -4,14 +4,16 @@
 <br />
 [:heart: Sponsor me](https://github.com/sponsors/Tolfx)
 
-## I'm a student.
+---
+
+### `I'm a student`
 - Studying to become a DevOps Engineer
 - I’m currently learning **Python** & **C#**
 - I know ``JavaScript & TypeScript & Node.js & C++``
 - [Discord](https://discord.com/users/269870630738853888): `Tolfx#0184`
 - Age ``18``
 
-### Contacts & Social media:
+### `Contacts & Social media`
 [<img align="left" alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1CA0F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-F84F4A.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
@@ -19,7 +21,7 @@
 [<img align="left" alt="Discord" src="https://img.shields.io/badge/Disocrd-5560E9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 <br />
 
-### Languages and Tools:
+### `Languages and Tools`
 ![JavaScript](https://img.shields.io/badge/-JavaScript-C67831?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1f4d80?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-0c3766?style=for-the-badge&logo=python)
@@ -56,7 +58,7 @@
 
 ---
 
-# Affiliates
+# `Affiliates`
 * [My Discord](https://github.com/Tolfx/MyDiscord) : Creates custom banner/profile to use on a readme status.
 * [Discord-Banner](https://github.com/Tolfx/discord-banner) : Gives the user's banner from discord.
 * [DMCD](https://github.com/Tolfix/dmcd) : Helps with auto deployment for docker. (CD)
