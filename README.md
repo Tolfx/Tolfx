@@ -59,11 +59,43 @@
 ---
 
 # `Affiliates`
-* [My Discord](https://github.com/Tolfx/MyDiscord) : Creates custom banner/profile to use on a readme status.
-* [Discord-Banner](https://github.com/Tolfx/discord-banner) : Gives the user's banner from discord.
-* [DMCD](https://github.com/Tolfix/dmcd) : Helps with auto deployment for docker. (CD)
-* [TLX](https://tlx.tf/) : A shorten url service.
-* [Cloud TLX](https://cloud.tlx.tf/) : A cloud service provider. 
+<table>
+  <tr>
+    <th><code>Repository</code></th>
+    <th><code>Stars</code></th>
+    <th><code>Issues</code></th>
+    <th><code>Forks</code></th>
+    <th><code>Description</code></th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/Tolfx/MyDiscord">My Discord</a></th>
+    <th><img src="https://img.shields.io/github/stars/Tolfx/MyDiscord?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/issues/Tolfx/MyDiscord?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/forks/Tolfx/MyDiscord?style=flat-square"/></th>
+    <th>Creates custom banner/profile to use on a readme status.</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/Tolfx/discord-banner">discord-banner</a></th>
+    <th><img src="https://img.shields.io/github/stars/Tolfx/discord-banner?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/issues/Tolfx/discord-banner?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/forks/Tolfx/discord-banner?style=flat-square"/></th>
+    <th>Gives the user's banner from discord.</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/Tolfix/dmcd">DMCD</a></th>
+    <th><img src="https://img.shields.io/github/stars/Tolfix/dmcd?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/issues/Tolfix/dmcd?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/forks/Tolfix/dmcd?style=flat-square"/></th>
+    <th>Helps with auto deployment for docker. (CD)</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/Tolfix/tlx">TLX</a></th>
+    <th><img src="https://img.shields.io/github/stars/Tolfix/tlx?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/issues/Tolfix/tlx?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/forks/Tolfix/tlx?style=flat-square"/></th>
+    <th>A shorten url service.</th>
+  </tr>
+</table>
 
 [tolfx]: https://discord.com/users/269870630738853888
 [tolfix]: https://tolfix.com/
