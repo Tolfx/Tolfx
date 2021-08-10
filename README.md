@@ -20,7 +20,7 @@
 [<img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-144475.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
 [<img align="left" alt="Discord" src="https://img.shields.io/badge/Disocrd-5560E9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 <br />
-
+<br />
 ### `Languages and Tools`
 ![JavaScript](https://img.shields.io/badge/-JavaScript-C67831?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1f4d80?style=for-the-badge&logo=typescript)
