@@ -75,10 +75,17 @@
     <th>Creates custom banner/profile to use on a readme status.</th>
   </tr>
   <tr>
-    <th><a href="https://github.com/Tolfx/discord-banner">discord-banner</a></th>
-    <th><img src="https://img.shields.io/github/stars/Tolfx/discord-banner?style=flat-square" /></th>
-    <th><img src="https://img.shields.io/github/issues/Tolfx/discord-banner?style=flat-square" /></th>
-    <th><img src="https://img.shields.io/github/forks/Tolfx/discord-banner?style=flat-square"/></th>
+    <th><a href="https://github.com/Tolfix/GithubViews">GithubViews</a></th>
+    <th><img src="https://img.shields.io/github/stars/Tolfix/GithubViews?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/issues/Tolfix/GithubViews?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/forks/Tolfix/GithubViews?style=flat-square"/></th>
+    <th>Github readme visitors counter.</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/Tolfix/discord-banner">discord-banner</a></th>
+    <th><img src="https://img.shields.io/github/stars/Tolfix/discord-banner?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/issues/Tolfix/discord-banner?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/forks/Tolfix/discord-banner?style=flat-square"/></th>
     <th>Gives the user's banner from discord.</th>
   </tr>
   <tr>
