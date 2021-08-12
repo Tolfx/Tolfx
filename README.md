@@ -18,7 +18,7 @@
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1CA0F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-F84F4A.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-144475.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
-[<img align="left" alt="Discord" src="https://img.shields.io/badge/Disocrd-5560E9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-5560E9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 <br />
 <br />
 ### `Languages and Tools`
