@@ -8,8 +8,8 @@
 
 ### `I'm a student`
 - Studying to become a DevOps Engineer
-- I’m currently learning **Python** & **C#**
-- I know ``JavaScript & TypeScript & Node.js & C++``
+- I’m currently learning **DevOps**
+- I know ``JavaScript & TypeScript & Node.js & C++ & C# & "Python"``
 - [Discord](https://discord.com/users/269870630738853888): `Tolfx#0184`
 - Age ``18``
 
