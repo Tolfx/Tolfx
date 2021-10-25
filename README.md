@@ -5,7 +5,7 @@
 [:heart: Sponsor me](https://github.com/sponsors/Tolfx)
 
 ---
-- I’m currently learning **DevOps**
+- **DevOps**
 - I know ``JavaScript & TypeScript & Node.js & C++ & C# & "Python"``
 - [Discord](https://discord.com/users/269870630738853888): `Tolfx#0184`
 - Age ``18``
