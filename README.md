@@ -99,6 +99,13 @@
     <th><img src="https://img.shields.io/github/forks/Tolfix/tlx?style=flat-square"/></th>
     <th>A shorten url service.</th>
   </tr>
+   <tr>
+    <th><a href="https://github.com/Tolfix/CPG-API">CPG-API</a></th>
+    <th><img src="https://img.shields.io/github/stars/Tolfix/CPG-API?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/issues/Tolfix/CPG-API?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/forks/Tolfix/CPG-API?style=flat-square"/></th>
+    <th>Central Payment Gateway.</th>
+  </tr>
 </table>
 
 [tolfx]: https://discord.com/users/269870630738853888
