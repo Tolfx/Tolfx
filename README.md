@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-C67831?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1f4d80?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-0c3766?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C++-79ABFF?style=for-the-badge&logo=cpp)
+![C++](https://img.shields.io/badge/-C++-79ABFF?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-058E0C?style=for-the-badge&logo=csharp)
 ![Java](https://img.shields.io/badge/-Java-DF6600?style=for-the-badge&logo=java)\
 ![Docker](https://img.shields.io/badge/-Docker-46A2F1?style=for-the-badge&logo=docker&logoColor=white)
