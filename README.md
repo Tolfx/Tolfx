@@ -23,14 +23,14 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1f4d80?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-0c3766?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-79ABFF?style=for-the-badge&logo=cpp)
-![C#](https://img.shields.io/badge/-CSharp-058E0C?style=for-the-badge&logo=cshapr)
+![C#](https://img.shields.io/badge/-C%23-058E0C?style=for-the-badge&logo=csharp)
 ![Java](https://img.shields.io/badge/-Java-DF6600?style=for-the-badge&logo=java)\
 ![Docker](https://img.shields.io/badge/-Docker-46A2F1?style=for-the-badge&logo=docker&logoColor=white)
 ![Github Action](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Deno](https://img.shields.io/badge/-Deno-05122A?style=for-the-badge&logo=deno)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&)
 ![Node.js](https://img.shields.io/badge/-Node.js-226b24?style=for-the-badge&logo=node.js)
-![Photoshop](https://img.shields.io/badge/-Photoshop-2FA3F7?style=for-the-badge&logo=photoshop)\
+![Photoshop](https://img.shields.io/badge/-Photoshop-2479B8?style=for-the-badge&logo=adobe-photoshop)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3a2854?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-React-3d6f80?style=for-the-badge&logo=react)
