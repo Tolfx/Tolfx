@@ -42,6 +42,7 @@
 ![Git](https://img.shields.io/badge/-Git-c44027?style=for-the-badge&logo=git)
 ![NotePad++](https://img.shields.io/badge/-Notepad++-A4aa7A?style=for-the-badge&logo=notepadplusplus)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
+![Android](https://img.shields.io/badge/-Android-2FAC67?style=for-the-badge&logo=android)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0060a1?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-39853a?style=for-the-badge&logo=mongodb)
 ![PostgresSQL](https://img.shields.io/badge/-Postgres-31648C?style=for-the-badge&logo=postgressql)
