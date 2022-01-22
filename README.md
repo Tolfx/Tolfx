@@ -46,6 +46,7 @@
 ![Android](https://img.shields.io/badge/-Android-2FAC67?style=for-the-badge&logo=android)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0060a1?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-39853a?style=for-the-badge&logo=mongodb)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-8A5F23?style=for-the-badge&logo=cloudflare)
 ![PostgresSQL](https://img.shields.io/badge/-Postgres-31648C?style=for-the-badge&logo=postgressql)
 ![MySQL](https://img.shields.io/badge/-MySQL-DB7D00?style=for-the-badge&logo=mysql)
 
