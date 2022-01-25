@@ -33,6 +33,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-226b24?style=for-the-badge&logo=node.js)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-2479B8?style=for-the-badge&logo=adobe-photoshop)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3a2854?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![Tailwind](https://img.shields.io/badge/-Tailwind-4600F1?style=for-the-badge&logo=tailwindcss)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-React-3d6f80?style=for-the-badge&logo=react)
 ![Svelte](https://img.shields.io/badge/-Svelte-F7F7F7?style=for-the-badge&logo=svelte)
