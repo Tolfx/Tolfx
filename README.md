@@ -8,7 +8,7 @@
 - **DevOps**
 - I know ``JavaScript & TypeScript & Node.js & C++ & C# & "Python"``
 - [Discord](https://discord.com/users/269870630738853888): `Tolfx#0184`
-- Age ``18``
+- Age ``19``
 
 ### `Contacts & Social media`
 [<img align="left" alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
