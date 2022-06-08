@@ -8,7 +8,6 @@
 - **DevOps**
 - I know ``JavaScript & TypeScript & Node.js & C++ & C# & "Python"``
 - [Discord](https://discord.com/users/269870630738853888): `Tolfx#0184`
-- Age ``19``
 
 ### `Contacts & Social media`
 [<img align="left" alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
@@ -113,10 +112,10 @@
     <th>A shorten url service.</th>
   </tr>
    <tr>
-    <th><a href="https://github.com/Tolfix/CPG-API">CPG-API</a></th>
-    <th><img src="https://img.shields.io/github/stars/Tolfix/CPG-API?style=flat-square" /></th>
-    <th><img src="https://img.shields.io/github/issues/Tolfix/CPG-API?style=flat-square" /></th>
-    <th><img src="https://img.shields.io/github/forks/Tolfix/CPG-API?style=flat-square"/></th>
+    <th><a href="https://github.com/Tolfix/cpg">CPG</a></th>
+    <th><img src="https://img.shields.io/github/stars/Tolfix/cpg?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/issues/Tolfix/cpg?style=flat-square" /></th>
+    <th><img src="https://img.shields.io/github/forks/Tolfix/cpg?style=flat-square"/></th>
     <th>Central Payment Gateway.</th>
   </tr>
 </table>
