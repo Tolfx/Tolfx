@@ -5,11 +5,8 @@
 [:heart: Sponsor me](https://github.com/sponsors/Tolfx)
 
 ---
-- **DevOps**
-- I know ``JavaScript & TypeScript & Node.js & C++ & C# & "Python"``
-- [Discord](https://discord.com/users/269870630738853888): `Tolfx#0184`
 
-### `Contacts & Social media`
+## `Contacts & Social media`
 [<img align="left" alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1CA0F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-F84F4A.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
@@ -18,56 +15,9 @@
 [<img align="left" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0956A2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br />
 <br />
-### `Languages and Tools`
-![JavaScript](https://img.shields.io/badge/-JavaScript-C67831?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1f4d80?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-0c3766?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C++-79ABFF?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/-C%23-058E0C?style=for-the-badge&logo=csharp)
-![Java](https://img.shields.io/badge/-Java-DF6600?style=for-the-badge&logo=java)\
-![Docker](https://img.shields.io/badge/-Docker-46A2F1?style=for-the-badge&logo=docker&logoColor=white)
-![Github Action](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Deno](https://img.shields.io/badge/-Deno-05122A?style=for-the-badge&logo=deno)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&)
-![Node.js](https://img.shields.io/badge/-Node.js-226b24?style=for-the-badge&logo=node.js)
-![Photoshop](https://img.shields.io/badge/-Photoshop-2479B8?style=for-the-badge&logo=adobe-photoshop)\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-3a2854?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-![Tailwind](https://img.shields.io/badge/-Tailwind-4600F1?style=for-the-badge&logo=tailwindcss)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/-React-3d6f80?style=for-the-badge&logo=react)
-![Svelte](https://img.shields.io/badge/-Svelte-F7F7F7?style=for-the-badge&logo=svelte)
-![EJS](https://img.shields.io/badge/-EJS-B1BF6E?style=for-the-badge&logo=ejs)
-![HTML](https://img.shields.io/badge/-HTML-ba401e?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-0e578c?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-94486e?style=for-the-badge&logo=sass)\
-![Git](https://img.shields.io/badge/-Git-c44027?style=for-the-badge&logo=git)
-![NotePad++](https://img.shields.io/badge/-Notepad++-A4aa7A?style=for-the-badge&logo=notepadplusplus)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
-![Android](https://img.shields.io/badge/-Android-2FAC67?style=for-the-badge&logo=android)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0060a1?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)\
-![MongoDB](https://img.shields.io/badge/-MongoDB-39853a?style=for-the-badge&logo=mongodb)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-8A5F23?style=for-the-badge&logo=cloudflare)
-![PostgresSQL](https://img.shields.io/badge/-Postgres-31648C?style=for-the-badge&logo=postgressql)
-![MySQL](https://img.shields.io/badge/-MySQL-DB7D00?style=for-the-badge&logo=mysql)
 
----
 
-<p align="center">
-  <img width="420" alt="Tolfx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolfx&show_icons=true&hide_border=true&theme=synthwave" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolfx&layout=compact&theme=synthwave&hide_border=true" />
-  
-  <p align="center">
-      <a href="#">
-        <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=Tolfx&theme=synthwave&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
-      </a>
-  </p>
-  
-  <a href="https://github.com/Tolfx/MyDiscord"><img width="420" src="https://mydiscord.tolfix.com/png?userId=269870630738853888&banner=true&stroke_circle=profile&createdAt=true&false=true" /></a>
-</p>
-
----
-
-# `Affiliates`
+## `Affiliates`
 <table>
   <tr>
     <th><code>Repository</code></th>
