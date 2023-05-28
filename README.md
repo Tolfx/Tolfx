@@ -54,13 +54,6 @@
     <th><img src="https://img.shields.io/github/forks/Tolfix/dmcd?style=flat-square"/></th>
     <th>Helps with auto deployment for docker. (CD)</th>
   </tr>
-  <tr>
-    <th><a href="https://github.com/Tolfix/tlx">TLX</a></th>
-    <th><img src="https://img.shields.io/github/stars/Tolfix/tlx?style=flat-square" /></th>
-    <th><img src="https://img.shields.io/github/issues/Tolfix/tlx?style=flat-square" /></th>
-    <th><img src="https://img.shields.io/github/forks/Tolfix/tlx?style=flat-square"/></th>
-    <th>A shorten url service.</th>
-  </tr>
    <tr>
     <th><a href="https://github.com/Tolfix/cpg">CPG</a></th>
     <th><img src="https://img.shields.io/github/stars/Tolfix/cpg?style=flat-square" /></th>
