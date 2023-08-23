@@ -1,21 +1,6 @@
 [<img align="left" alt="Logo" width="58px" src="https://cdn.tolfix.com/images/TX-Small.png" />][tolfix]
 ### Tolfx's info
 ![](https://githubviews.tolfix.com/?id=Tolfx&color=blueviolet&style=plastic&label=Views+In+Total+/+Tolfx&true=true)
-<br />
-[:heart: Sponsor me](https://github.com/sponsors/Tolfx)
-
----
-
-## `Contacts & Social media`
-[<img align="left" alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1CA0F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-F84F4A.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-144475.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
-[<img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-5560E9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
-[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0956A2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<br />
-<br />
-
 
 ## `Affiliates`
 <table>
